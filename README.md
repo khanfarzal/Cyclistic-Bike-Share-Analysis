@@ -94,3 +94,27 @@ Grand totals of the respective pivot tables gave an idea about the total numbers
 
 ## Sharing The Analysis
 
+April - Oct Ride count exceeded june-aug on fridays,sat and sunday & sat , sunday in apr, may ,sep ,oct
+march-dec Avg ride length max on sundays
+ Ride Preferred   
+ (oct-dec) electric max preferred, exceeded claasic by casual & (nov-dec) by member , exceeded casual
+ Jan difference between electric and classic during weekdays is almost negligible
+ usage of docked bike is  very less in casual and no usage in members
+ Claasic bike is more prefeered (feb-sep) by casual in 
+
+jun-sep warm season -> tourism max
+oct-cool, nov-cold,dec-feb very cold,mar-cold,apr-cool
+rain: feb-may increasing, may-aug max 
+sep-jan - decreasing rain 
+
+1) Average Ride length for casual riders is always greater than member riders.
+2) Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
+3) Ride Count for Casual Riders Start increasing from March till July and then Starts decreasing from September to February.
+4) Casual Riders has excceded Member Rider Counts from June-August in which tourism is also maximum.
+5) Overall classical bike is more preferred over electric bike.
+6) 
+6) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
+7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
+8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
+
+<a href="url"><img src="https://drive.google.com/file/d/1NFNWlAvQgziKnk-pBfB39ZNgnjB7qee9/view?usp=sharing" align="center" height="480" width="480" ></a>
