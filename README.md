@@ -94,6 +94,41 @@ Grand totals of the respective pivot tables gave an idea about the total numbers
 
 ## Sharing The Analysis
 
+### Ride Count
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Total%20Ride%20Count.png" align="center" height="400" width="400" ></a>
+
+Total bikes leased in the year 2021 were 5.5M, out of which 3.2M were leased by member riders and 2.2m by casual riders. Total member rides constitute 
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Count%20Distribution.png" align="center" height="600" width="900" ></a>
+
+3) Ride Count for Casual Riders Start increasing from March till July and then Starts decreasing from September to February.
+4) Casual Riders has excceded Member Rider Counts from June-August in which tourism is also maximum.
+
+### Ride Length
+
+1) Average Ride length for casual riders is always greater than member riders.
+2) Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Average%20Ride%20Length%20Total.png" align="center" height="400" width="400" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Average%20Ride%20Length%20Distribution.png" align="center" height="600" width="900" ></a>
+
+### Ride Preference
+
+5) Overall classical bike is more preferred over electric bike.
+6) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
+7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
+8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Preference%20Total.png" align="center" height="600" width="900" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Ride%20Preference.png" align="center" height="600" width="900" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Ride%20Preference.png" align="center" height="600" width="900" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Preference%20Distribution.png" align="center" height="600" width="900" ></a>
+
 April - Oct Ride count exceeded june-aug on fridays,sat and sunday & sat , sunday in apr, may ,sep ,oct
 march-dec Avg ride length max on sundays
  Ride Preferred   
@@ -107,14 +142,3 @@ oct-cool, nov-cold,dec-feb very cold,mar-cold,apr-cool
 rain: feb-may increasing, may-aug max 
 sep-jan - decreasing rain 
 
-1) Average Ride length for casual riders is always greater than member riders.
-2) Average Ride length for casual members is almost similar from February to May and then decreases from month June to January.
-3) Ride Count for Casual Riders Start increasing from March till July and then Starts decreasing from September to February.
-4) Casual Riders has excceded Member Rider Counts from June-August in which tourism is also maximum.
-5) Overall classical bike is more preferred over electric bike.
-6) 
-6) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
-7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
-8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
-
-<a href="url"><img src="https://drive.google.com/file/d/1NFNWlAvQgziKnk-pBfB39ZNgnjB7qee9/view?usp=sharing" align="center" height="480" width="480" ></a>
