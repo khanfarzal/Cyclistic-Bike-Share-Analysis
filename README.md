@@ -115,6 +115,8 @@ It is observed that the number of rides leased by casual riders surpasses member
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Average%20Ride%20Length%20Total.png" align="center" height="400" width="400" ></a>
 
+On average, casual riders spend 32% more time on their bikes than member riders even though the number of rides leased by casual riders is 10% less than member riders. 
+
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Average%20Ride%20Length%20Distribution.png" align="center" height="600" width="900" ></a>
 
 ### Ride Preference
