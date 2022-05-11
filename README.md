@@ -98,12 +98,15 @@ Grand totals of the respective pivot tables gave an idea about the total numbers
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Total%20Ride%20Count.png" align="center" height="400" width="400" ></a>
 
-Total bikes leased in the year 2021 were 5.5M, out of which 3.2M were leased by member riders and 2.2m by casual riders. Total member rides constitute 
+Total bikes leased in the year 2021 were 5.59M out of which 3.06M were leased by member riders and 2.52M by casual riders. Member rides and casual rides constitute 55% and 45% of the total respectively. The fact that the number of casual riders is significant supports the idea of converting casual riders to member riders instead of focusing on adding new member riders.
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Count%20Distribution.png" align="center" height="600" width="900" ></a>
 
-3) Ride Count for Casual Riders Start increasing from March till July and then Starts decreasing from September to February.
-4) Casual Riders has excceded Member Rider Counts from June-August in which tourism is also maximum.
+For casual riders, the number of bikes leased starts increasing from the month of february and peaks in the month of july. After july, the ride count starts decreasing and is lowest in the month of february.
+
+For member riders, the number of bikes leased starts increasing from the month of february and peaks in the month of august/september. After september, the ride count starts decreasing and is lowest in the month of february.
+
+It is observed that the number of rides leased by casual riders surpasses member riders in the months of june, july, and august. The reason I suspect is the increase in tourism in Chicago during this period.
 
 ### Ride Length
 
