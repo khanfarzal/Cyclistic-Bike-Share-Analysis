@@ -105,30 +105,40 @@ For casual riders, the number of bikes leased starts increasing from the month o
 
 For member riders, the number of bikes leased starts increasing from the month of february and peaks in the month of august/september. After that, the ride count starts decreasing and is lowest in the month of february.
 
-It is observed that the number of rides leased by casual riders surpasses member riders in the months of june, july, and august. The reason I suspect is the increase in tourism in Chicago during this period.
+It is observed that the number of rides leased by casual riders surpasses member riders in the months of june, july, and august. The reason I suspect is the increase in tourism in Chicago during this period. Also, the lowest number of rides are in the month of february for both casual and member riders, the reason might be freezing weather conditions. After carefully observing the monthly data, I found out that casual riders hire maximum number of bikes on weekends and member riders on weekdays in each month consistently. From the data it seems that member riders use the bikes for commute purposes which could be office/school/college.
 
 ### Ride Length
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Average%20Ride%20Length%20Total.png" align="center" height="400" width="400" ></a>
 
-The average ride length for casual riders is comparable between february-may and starts decreasing further until january. It is observed that there is a significant increase in the average ride length for casual riders between january and february.
-
-The average ride length for member riders is comparable between march-september and starts decreasing further until january. The increase in average ride length between january and february is moderate as compared to casual riders.
-
-The average ride length for casual riders is higher than member riders throughtout the year. On average, casual riders spend 32% more time on their bikes as compared to member riders even though the number of rides leased by casual riders is 10% less than member riders.
+On average, casual riders spend approximately twice as much time on their bikes as compared to member riders, even though the number of rides leased by casual riders is 10% less than member riders. 
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Average%20Ride%20Length%20Distribution.png" align="center" height="600" width="900" ></a>
 
+The average ride length for casual riders is comparable between february-may and starts declining further until january. It is observed that there is a significant increase in the average ride length for casual riders between january and february.
+
+The average ride length for member riders is comparable between march-september and starts declining further until january. The increase in average ride length between january and february is moderate as compared to casual riders.
+
+The average ride length for casual riders is higher than member riders throughtout the year. Also, it is observed that both casual and member riders ride for the longest periods on sundays.
+
 ### Ride Preference
 
-5) Overall classical bike is more preferred over electric bike.
+
 6) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
 7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
 8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Preference%20Total.png" align="center" height="600" width="900" ></a>
 
+Both casual and member riders prefer classic bikes more than other bike types with docked bikes being the least preferred. Interestingly, docked bikes are almost used negligibly by member riders (only 1 in the whole year). The difference in classic bike usage of member and casual riders is considerable and that of electric bike usage is almost comparable.
+
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Ride%20Preference.png" align="center" height="600" width="900" ></a>
+
+Classic bike usage for casual riders starts increasing from february with the highest rise between may and june, and it peaks in the month of july. After that it starts declining with the largest drop between september and october.
+
+Docked and electric bike usage for casual riders starts increasing from february with the highest rise between april and may, and it peaks in the month of july. After that it starts declining with the largest drop between october and november. Number of electric bike rides is almost comparable between june-october.
+
+On comparison, classic and electric bike usage is similar in the month of january. Casual riders have preferred classic bike throughout the year except for october, novermber, and december. During these months electric bikes are more preferred, and I suspect the reason to be the start of winter season. Usage of all bike types by both rider is the lowest in the month of January and February which are the coldest in Chicago.
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Ride%20Preference.png" align="center" height="600" width="900" ></a>
 
