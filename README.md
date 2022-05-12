@@ -123,11 +123,6 @@ The average ride length for casual riders is higher than member riders throughto
 
 ### Ride Preference
 
-
-6) Electric bike is more preffered than classic bike from October to December by Casual riders and in November & December by Member riders.
-7) In January both Electric and Classical bike is Equally Prefeered in weekdays by Casual Riders.
-8) Docked bikes are very less preferred by Casual Riders & No usage of docked bikes by members.
-
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Preference%20Total.png" align="center" height="600" width="900" ></a>
 
 Both casual and member riders prefer classic bikes more than other bike types with docked bikes being the least preferred. Interestingly, docked bikes are almost used negligibly by member riders (only 1 in the whole year). The difference in classic bike usage of member and casual riders is considerable and that of electric bike usage is almost comparable.
@@ -142,18 +137,22 @@ On comparison, classic and electric bike usage is similar in the month of januar
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Ride%20Preference.png" align="center" height="600" width="900" ></a>
 
+Classic bike usage for member riders starts increasing from february with the highest rise between February and March, and it peaks in the month of August. After that it starts declining with the largest drop between October and November. Classic bikes leased by member riders is comparable between July-September.
+
+Electric bike usage for member riders starts increasing from february with the highest rise between September and October, and it peaks in the month of October. After that it starts declining with the largest drop between December and January. Number of electric bike rides is almost comparable between June-September. Docked bikes are never used by member riders.
+
+Member riders have also preferred classic bike throughout the year except for November and December. During these months electric bikes are more preferred reason being the same. Usage of all bike types by both riders is the lowest in the month of January and February which are the coldest in Chicago.
+
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Ride%20Preference%20Distribution.png" align="center" height="600" width="900" ></a>
 
-April - Oct Ride count exceeded june-aug on fridays,sat and sunday & sat , sunday in apr, may ,sep ,oct
-march-dec Avg ride length max on sundays
- Ride Preferred   
- (oct-dec) electric max preferred, exceeded claasic by casual & (nov-dec) by member , exceeded casual
- Jan difference between electric and classic during weekdays is almost negligible
- usage of docked bike is  very less in casual and no usage in members
- Claasic bike is more prefeered (feb-sep) by casual in 
+Upon monthly comparison, it is observed that classic and docked bikes are used by casual riders more than member riders throughout the year. Casual electric rides exceeded member electric rides between May-September.
 
-jun-sep warm season -> tourism max
-oct-cool, nov-cold,dec-feb very cold,mar-cold,apr-cool
-rain: feb-may increasing, may-aug max 
-sep-jan - decreasing rain 
+For member riders, classic bike usage is evenly distributed between Tuesday-Saturday and electric bike usage is maximum on Friday. Both classic and electric bikes are used lowest on Sunday and Monday. For casual riders, every bike type is used maximum on Saturday.
 
+### Recommendations
+
+1. Design Half-Yearly and Quarter- Yearly membership plans
+2. Slash the annual membership rates from June-September when casual rider traffic is maximum 
+3. Design flash sale of membership plans near top 20 busiest stations on weekends during peak hours
+4. Implement advertising annual memberships prices more using billboards/posters near the top 20 most popular stations for casual users
+5. Provide a limited discount on annual memberships purchased during the months of lowest traffic to increase rider usage in these months
