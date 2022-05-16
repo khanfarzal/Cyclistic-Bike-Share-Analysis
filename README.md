@@ -149,6 +149,20 @@ Upon monthly comparison, it is observed that classic and docked bikes are used b
 
 For member riders, classic bike usage is evenly distributed between Tuesday-Saturday and electric bike usage is maximum on Friday. Both classic and electric bikes are used lowest on Sunday and Monday. For casual riders, every bike type is used maximum on Saturday.
 
+### Busiest Stations
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Top%2020%20Busiest%20Stations.png" align="center" height="600" width="800" ></a>
+
+### Peak Hours
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Weekday%20Peak%20Hours.png" align="center" height="600" width="1000" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Weekday%20Peak%20Hours.png" align="center" height="600" width="1000" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Weekend%20Peak%20Hours.png" align="center" height="600" width="1000" ></a>
+
+<a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Weekend%20Peak%20Hours.png" align="center" height="600" width="1000" ></a>
+
 ### Recommendations
 
 1. Design Half-Yearly and Quarter- Yearly membership plans
