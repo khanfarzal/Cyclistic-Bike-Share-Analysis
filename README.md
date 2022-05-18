@@ -153,15 +153,25 @@ For member riders, classic bike usage is evenly distributed between Tuesday-Satu
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Top%2020%20Busiest%20Stations.png" align="center" height="600" width="750" ></a>
 
+
+
 ### Peak Hours
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Weekday%20Peak%20Hours.png" align="center" height="500" width="1000" ></a>
 
+Casual riders seem to be hiring maximum number of bikes in the evening between 4:00 P.M. - 7:00 P.M. during weekdays probably for leisure activities after office hours.
+
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Weekday%20Peak%20Hours.png" align="center" height="500" width="1000" ></a>
+
+Member riders are hiring maximum number of bikes during peak commute hours that is between 7:00 A.M. - 9:00 A.M. in the morning and between 4:00 P.M. - 6:00 P.M. in the evening. Also, member riders seem to be using the bikes to travel to and fro between home and train station since most of the peak cyclistic docking stations are near train stations.
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Weekend%20Peak%20Hours.png" align="center" height="500" width="1000" ></a>
 
+During weekends, casual riders hire maximum number of bikes between 12:00 P.M. - 5:00 P.M.. The trend for weekends is a normal distribution unlike weekdays which was spiked during peak commute hours.
+
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Weekend%20Peak%20Hours.png" align="center" height="500" width="1000" ></a>
+
+Bike hiring trend for member riders on weekends is comparable to that of casual riders, however a bit more consistent between 12:00 P.M. - 3:00 P.M. It seems that both riders types hire bikes for leisure and fun purposes during weekends.
 
 ### Recommendations
 
