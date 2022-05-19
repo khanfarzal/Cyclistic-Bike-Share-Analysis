@@ -153,7 +153,7 @@ For member riders, classic bike usage is evenly distributed between Tuesday-Satu
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Top%2020%20Busiest%20Stations.png" align="center" height="600" width="750" ></a>
 
-
+Majority of the docking stations are near the coastal area. 'Streeter Dr and Grand Ave' is the most famous docking station with highest number of riders due to excursion places in its vicinity. Difference between number of rides at the top 1st (Streeter Dr & Grand Ave) and top 2nd (Michigan Ave & Oak St) docking stations is significantly large. 
 
 ### Peak Hours
 
@@ -163,7 +163,7 @@ Casual riders seem to be hiring maximum number of bikes in the evening between 4
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Member%20Weekday%20Peak%20Hours.png" align="center" height="500" width="1000" ></a>
 
-Member riders are hiring maximum number of bikes during peak commute hours that is between 7:00 A.M. - 9:00 A.M. in the morning and between 4:00 P.M. - 6:00 P.M. in the evening. Also, member riders seem to be using the bikes to travel to and fro between home and train station since most of the peak cyclistic docking stations are near train stations.
+Member riders are hiring maximum number of bikes during peak commute hours that is between 7:00 A.M. - 9:00 A.M. in the morning and between 4:00 P.M. - 6:00 P.M. in the evening. Also, member riders seem to be using the bikes to travel towards station since some of the peak cyclistic docking stations are near train stations.
 
 <a href="url"><img src="https://github.com/khanfarzal/Cyclistic-Bike-share-Analysis/blob/main/Graphs/Casual%20Weekend%20Peak%20Hours.png" align="center" height="500" width="1000" ></a>
 
@@ -178,5 +178,3 @@ Bike hiring trend for member riders on weekends is comparable to that of casual 
 1. Design Half-Yearly and Quarter- Yearly membership plans
 2. Slash the annual membership rates from June-September when casual rider traffic is maximum 
 3. Design flash sale of membership plans near top 20 busiest stations on weekends during peak hours
-4. Implement advertising annual memberships prices more using billboards/posters near the top 20 most popular stations for casual users
-5. Provide a limited discount on annual memberships purchased during the months of lowest traffic to increase rider usage in these months
