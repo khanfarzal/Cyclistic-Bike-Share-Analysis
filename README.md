@@ -46,15 +46,15 @@ Since the data is organized into 12 different worksheets, one for each month, I 
 
 Steps taken for data cleaning
 
-    1) Identified the source of error in ride_length column which turned out to be negative time values that 
-       gave !VALUE error. I rectified the problem by using the MOD() function.
+    1) Identified the source of error in ride_length column which turned out to be negative time values 
+       that gave !VALUE error. I rectified the problem by using the MOD() function.
 
-    2) 739170 of the station names and IDs out of 5.5M records are missing which constitutes 13.21% of the total 
-       records. Suprisingly, the data missing was only for electric bikes. Since the geographical latitudes and 
-       longitudes are present the nulls did not hinder the analysis.
+    2) 739170 of the station names and IDs out of 5.5M records are missing which constitutes 13.21% of the 
+       total records. Suprisingly, the data missing was only for electric bikes. Since the geographical 
+       latitudes and longitudes are present the nulls did not hinder the analysis.
 
-    3) Around 4800 records of geographical latitudes and longitudes are missing, but since it constitutes less 
-       than 0.1% of the total records it can be filtered out.
+    3) Around 4800 records of geographical latitudes and longitudes are missing, but since it constitutes 
+       less than 0.1% of the total records it can be filtered out.
 
     3) Formatted the date and time correctly
     
